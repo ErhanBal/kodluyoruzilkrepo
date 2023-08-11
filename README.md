@@ -27,6 +27,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Licence
 
-[MIT]([)](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ![Lorem Picsum](https://picsum.photos/200/300)
